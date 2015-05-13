@@ -1,5 +1,4 @@
 var $ = require('zepto');
-require('./style.css');
 var rAF = window.requestAnimationFrame ||
 	window.webkitRequestAnimationFrame ||
 	window.mozRequestAnimationFrame ||

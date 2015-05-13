@@ -7,9 +7,6 @@
 .ui-slider-content {
     padding-left: 0;
     display: -webkit-box;
-    position: absolute;
-    left: 0;
-    top: 0;
     height: 100%
 }
 
