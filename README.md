@@ -1,4 +1,4 @@
-# slider [![spm version](http://spmjs.io/badge/slider)](http://spmjs.io/package/slider)
+# slider [![spm version](https://moekit.timo.today/badge/slider)](http://spmjs.io/package/slider)
 
 ---
 
